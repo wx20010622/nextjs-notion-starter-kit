@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Xing's personal blog',
+  name: 'Xings personal blog',
   domain: 'https://dong-lab.org/aaa/',
   author: 'Wang Xing & Wang Ying',
 
