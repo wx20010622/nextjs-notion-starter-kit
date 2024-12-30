@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Xing's personal blog',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://dong-lab.org/aaa/',
   author: 'Wang Xing & Wang Ying',
 
   // open graph metadata (optional)
